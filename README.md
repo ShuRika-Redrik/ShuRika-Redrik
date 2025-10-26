@@ -12,7 +12,7 @@
 ### Выполненные в ходе обучения задания
 
 - [Анализ требований](https://docs.google.com/document/d/1HZZkNRTxfFOa6H_AL93oqCZ-Its8qNubwjaSg9ZbTRs/edit?usp=sharing)
-- [Классы эквивалентности и граничные значения](ttps://docs.google.com/spreadsheets/d/1ygLrS5gAZM9mx5hXHWmgIPUXfx8UL25Q6-tp7D_x1ic/edit?usp=sharing) 
+- [Классы эквивалентности и граничные значения](https://docs.google.com/spreadsheets/d/1ygLrS5gAZM9mx5hXHWmgIPUXfx8UL25Q6-tp7D_x1ic/edit?usp=sharing) 
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1vYwxrQ6ohY-8AqdzUbRxNQuTcnILJ7KSM32ovse43ag/edit?usp=sharing)
 - [Тестирование карандаша](https://docs.google.com/document/d/1zb5CIy2qtWGPJ31OL56RMaeY9EdPZT7dekBhMdF0iXI/edit?usp=sharing)
 - [Тестирование поля ввода](https://docs.google.com/document/d/1I-1yrP31vMdKGHnvjPrDu02kHm2k2-B_f3QHRRcw3kM/edit?usp=sharing)
