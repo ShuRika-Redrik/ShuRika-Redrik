@@ -42,7 +42,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
         <a href="mailto:ax.bagdasarova@mail.ru" target="_blank">
       <img src="https://play-lh.googleusercontent.com/yVc-bdEeogx-PWeUXenc8Ugfm-t-hsIsFZ-IbzM-JB4il9qL-bkR4LsiasTuDM2Bag" width="40" height="40" alt="Mail.RU" />
-        <a href="mailto:ax.bagdasarova@mail.ru" target="_blank">
+        <a href="https://spb.hh.ru/resume/289429f5ff0f9533fc0039ed1f795477735a58" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40" alt="HH" />
     </a>
   </div>
