@@ -18,6 +18,7 @@
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1vYwxrQ6ohY-8AqdzUbRxNQuTcnILJ7KSM32ovse43ag/edit?usp=sharing)
 - [Тестирование карандаша](https://docs.google.com/document/d/1zb5CIy2qtWGPJ31OL56RMaeY9EdPZT7dekBhMdF0iXI/edit?usp=sharing)
 - [Тестирование поля ввода](https://docs.google.com/document/d/1I-1yrP31vMdKGHnvjPrDu02kHm2k2-B_f3QHRRcw3kM/edit?usp=sharing)
+- [Коллекция в Postman](https://www.postman.com/shurika/petstore/collection/kqhl51u/petstore?action=share&creator=45893827)
 - [SQL-запросы](https://github.com/ShuRika-Redrik/ShuRika-Redrik/blob/main/sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B)
 
 ## Инструменты
